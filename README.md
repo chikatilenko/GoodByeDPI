@@ -1,0 +1,2 @@
+# GoodByeDPI
+Обход замедления YouTube
